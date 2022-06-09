@@ -1,0 +1,6 @@
+電腦視覺端點 : https://vision20200516.cognitiveservices.azure.com/
+電腦視覺金鑰 : b68bb0c208fa428eb816357cf134fda8
+
+臉部辨識端點 : https://azurefaceapi20220530.cognitiveservices.azure.com/
+臉部辨識金鑰 : 5b79320184ad4eec9a06ca21a0cbe17a
+
